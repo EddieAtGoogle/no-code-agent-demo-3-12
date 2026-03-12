@@ -52,7 +52,7 @@ Your agent is now fully built, grounded in ASCO data, and ready to coach! Let's 
 
 In the preview chat window on the right side of your screen, copy and paste the following prompt as if you were an ASCO member:
 
-> *"I am a first-year fellow. I'm really interested in pediatric ALL and I'm trying to figure out how to manage long-term toxicities in my patients."*
+> *"I am a first-year fellow. I'm really interested in pediatric oncology and I'm trying to figure out how to manage long-term toxicities in my patients."*
 
 Press **Enter** and watch the magic happen! ✨
 
