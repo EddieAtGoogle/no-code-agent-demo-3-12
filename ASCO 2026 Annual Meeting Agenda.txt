@@ -1,0 +1,401 @@
+﻿ASCO 2026 Annual Meeting Agenda
+
+
+Session S101
+Title: Advances in Pediatric Leukemia: Targeted Therapies
+Track: Pediatric Oncology
+Time: June 1 2026, 10:00 AM
+Speaker: Dr. Sarah Jenkins (St. Jude Children's Research Hospital)
+Description: This session explores novel targeted therapies for relapsed acute lymphoblastic leukemia (ALL) in pediatric patients and strategies for overcoming resistance.
+
+
+Session S102
+Title: Navigating Your Early Career in Oncology
+Track: Career Development
+Time: June 1 2026, 1:00 PM
+Speaker: Dr. Michael Chen (MD Anderson Cancer Center)
+Description: A panel discussion designed specifically for first-year fellows and early-career oncologists focusing on finding mentorship and securing early grant funding.
+
+
+Session S103
+Title: Immunotherapy Outcomes in Triple-Negative Breast Cancer
+Track: Breast Cancer
+Time: June 1 2026, 9:00 AM
+Speaker: Dr. Elena Rodriguez (Dana-Farber Cancer Institute)
+Description: Review of 5-year overall survival data for recent Keynote trials in TNBC.
+
+
+Session S104
+Title: Chimeric Antigen Receptor (CAR) T-Cell Therapy in Pediatric ALL
+Track: Pediatric Oncology
+Time: June 2 2026, 2:30 PM
+Speaker: Dr. James Patel (Children's Hospital of Philadelphia)
+Description: A deep dive into the management of toxicities and long-term outcomes associated with CAR T-cell therapy in pediatric populations.
+
+
+Session S105
+Title: The Future of Telehealth in Community Oncology
+Track: Practice Management
+Time: June 2 2026, 11:00 AM
+Speaker: Dr. Amanda Lewis (Mayo Clinic)
+Description: Discussing changing reimbursement models and best practices for rural oncology care.
+
+
+Session S106
+Title: Oral Abstract: Adjuvant Targeted Therapy in EGFR-Mutated NSCLC
+Track: Lung Cancer
+Time: June 1 2026, 8:00 AM
+Speaker: Dr. Kenneth Wong (Memorial Sloan Kettering Cancer Center)
+Description: Analyzing updated disease-free survival metrics in resected non-small cell lung cancer.
+
+
+Session S107
+Title: Educational Session: Management of Colorectal Liver Metastases
+Track: Gastrointestinal Cancer
+Time: June 1 2026, 3:15 PM
+Speaker: Dr. Robert Vance (Cleveland Clinic)
+Description: Multidisciplinary approaches to resectable and unresectable colorectal liver metastases.
+
+
+Session S108
+Title: Antibody-Drug Conjugates in HER2-Low Breast Cancer
+Track: Breast Cancer
+Time: June 2 2026, 10:45 AM
+Speaker: Dr. Lisa Martinez (UCSF Helen Diller Family Comprehensive Cancer Center)
+Description: Clinical sequencing and toxicity management for novel ADCs in the metastatic setting.
+
+
+Session S109
+Title: Overcoming Resistance in Advanced Prostate Cancer
+Track: Genitourinary Cancer
+Time: June 2 2026, 1:00 PM
+Speaker: Dr. David Harris (Johns Hopkins Sidney Kimmel Comprehensive Cancer Center)
+Description: Exploring AR-targeted therapy resistance mechanisms and next-generation degraders.
+
+
+Session S110
+Title: Updates in High-Risk Neuroblastoma
+Track: Pediatric Oncology
+Time: June 3 2026, 8:30 AM
+Speaker: Dr. Chloe Adams (Seattle Children's Hospital)
+Description: Integrating tandem autologous stem cell transplant and anti-GD2 immunotherapy.
+
+
+Session S111
+Title: Neoadjuvant Immunotherapy in Resectable Melanoma
+Track: Melanoma/Skin Cancers
+Time: June 3 2026, 10:00 AM
+Speaker: Dr. Thomas Wright (University of Chicago Helen Zell Family Comprehensive Cancer Center)
+Description: Pathological response rates as a surrogate for overall survival in stage III melanoma.
+
+
+Session S112
+Title: Maintenance Strategies in Adult AML
+Track: Hematologic Malignancies
+Time: June 3 2026, 1:30 PM
+Speaker: Dr. Olivia Benson (Roswell Park Comprehensive Cancer Center)
+Description: The role of oral hypomethylating agents post-consolidation in older adults.
+
+
+Session S113
+Title: Grant Writing Workshop for Oncology Trainees
+Track: Career Development
+Time: June 1 2026, 4:00 PM
+Speaker: Dr. William Carter (ASCO Conquer Cancer Foundation)
+Description: A hands-on workshop for fellows detailing the mechanics of applying for the Young Investigator Award (YIA).
+
+
+Session S114
+Title: PARP Inhibitors in Ovarian Cancer: What's Next?
+Track: Gynecologic Cancer
+Time: June 4 2026, 9:00 AM
+Speaker: Dr. Samantha Reed (Duke Cancer Institute)
+Description: Evaluating combination therapies and mechanisms of PARP resistance.
+
+
+Session S115
+Title: Emerging Modalities in Glioblastoma Multiforme
+Track: Central Nervous System Tumors
+Time: June 4 2026, 10:30 AM
+Speaker: Dr. Henry Ford (Stanford Cancer Institute)
+Description: Review of viral vectors and tumor Treating Fields (TTFields) in newly diagnosed GBM.
+
+
+Session S116
+Title: MRD Monitoring in Pediatric Acute Lymphoblastic Leukemia
+Track: Pediatric Oncology
+Time: June 4 2026, 1:00 PM
+Speaker: Dr. Emily Stanton (Texas Children's Hospital)
+Description: How Next-Generation Sequencing (NGS) based Minimal Residual Disease monitoring is shifting clinical paradigms in pediatric ALL.
+
+
+Session S117
+Title: Targeting the Stroma in Pancreatic Ductal Adenocarcinoma
+Track: Gastrointestinal Cancer
+Time: June 4 2026, 3:00 PM
+Speaker: Dr. Marcus Allen (Vanderbilt Ingram Cancer Center)
+Description: Novel agents disrupting the tumor microenvironment in advanced PDAC.
+
+
+Session S118
+Title: First-Line Immunotherapy in Extensive-Stage SCLC
+Track: Lung Cancer
+Time: June 5 2026, 8:00 AM
+Speaker: Dr. Rachel Kim (Yale Cancer Center)
+Description: Long term follow up of PD-L1 inhibitors combined with platinum-etoposide.
+
+
+Session S119
+Title: CDK4/6 Inhibitor Resistance in HR+ Breast Cancer
+Track: Breast Cancer
+Time: June 5 2026, 9:30 AM
+Speaker: Dr. Vanessa Clark (Northwestern Medicine Neal Cancer Center)
+Description: Sequencing endocrine therapy and targeted agents post-progression.
+
+
+Session S120
+Title: Generative AI for Clinical Documentation
+Track: Care Delivery and Practice Management
+Time: June 5 2026, 11:00 AM
+Speaker: Dr. Anthony Stark (Mount Sinai Robert H. Lurie Comprehensive Cancer Center)
+Description: Evaluating the time-savings and accuracy of ambient listening AI tools in the oncology clinic.
+
+
+Session S121
+Title: Locoregional Management of HPV+ Squamous Cell Carcinoma
+Track: Head and Neck Cancer
+Time: June 1 2026, 10:00 AM
+Speaker: Dr. Philip Davis (Abramson Cancer Center at Penn Medicine)
+Description: De-escalation strategies in radiation therapy for favorable risk patients.
+
+
+Session S122
+Title: HIF-2a Inhibition in Renal Cell Carcinoma
+Track: Genitourinary Cancer
+Time: June 1 2026, 1:30 PM
+Speaker: Dr. Carmen Ruiz (City of Hope Comprehensive Cancer Center)
+Description: Updates on managing VHL disease-associated RCC and sporadic clear cell RCC.
+
+
+Session S123
+Title: Breakthroughs in Soft Tissue Sarcoma
+Track: Sarcoma
+Time: June 2 2026, 8:30 AM
+Speaker: Dr. George Mitchell (Moffitt Cancer Center)
+Description: Integrating targeted therapies in synovial sarcoma and liposarcoma.
+
+
+Session S124
+Title: Building a Research Lab as a Junior Faculty Member
+Track: Career Development
+Time: June 2 2026, 10:00 AM
+Speaker: Dr. Angela Fisher (Fred Hutchinson Cancer Center)
+Description: Key strategies for transitioning from fellowship to an independent principal investigator.
+
+
+Session S125
+Title: Limb Salvage Techniques in Pediatric Osteosarcoma
+Track: Pediatric Oncology
+Time: June 2 2026, 1:00 PM
+Speaker: Dr. Richard Brooks (Boston Children's Hospital)
+Description: Surgical and oncological considerations for improving quality of life in pediatric bone tumors.
+
+
+Session S126
+Title: Bispecific Antibodies vs CAR-T in Multiple Myeloma
+Track: Hematologic Malignancies
+Time: June 3 2026, 9:00 AM
+Speaker: Dr. Simon Lee (Winship Cancer Institute of Emory University)
+Description: Sequencing T-cell redirecting therapies in heavily pretreated relapsed/refractory MM.
+
+
+Session S127
+Title: Managing Atypical EGFR Mutations in NSCLC
+Track: Lung Cancer
+Time: June 3 2026, 11:00 AM
+Speaker: Dr. Katherine Hughes (UCHealth Robert H. Lurie Comprehensive Cancer Center)
+Description: Treatment strategies for exon 20 insertions and uncommon point mutations.
+
+
+Session S128
+Title: Adjuvant Therapy for High-Risk Uveal Melanoma
+Track: Melanoma/Skin Cancers
+Time: June 3 2026, 2:00 PM
+Speaker: Dr. Daniel Gomez (Sylvester Comprehensive Cancer Center)
+Description: Evaluating tebentafusp and emerging targeted therapies.
+
+
+Session S129
+Title: FLOT vs CROSS Regimen in Esophageal Cancer
+Track: Gastrointestinal Cancer
+Time: June 4 2026, 8:00 AM
+Speaker: Dr. Matthew Nelson (Fox Chase Cancer Center)
+Description: A retrospective analysis of the Phase III ESOPEC trial data and practice implications.
+
+
+Session S130
+Title: Optimizing Duration of Endocrine Therapy in Early Stage Breast Cancer
+Track: Breast Cancer
+Time: June 4 2026, 10:00 AM
+Speaker: Dr. Laura White (University of Michigan Robert H. Lurie Comprehensive Cancer Center)
+Description: Using genomic assays to predict the benefit of extended adjuvant endocrine therapy.
+
+
+Session S131
+Title: Novel Bispecifics in Relapsed/Refractory Pediatric AML
+Track: Pediatric Oncology
+Time: June 4 2026, 1:00 PM
+Speaker: Dr. Aaron Foster (Cincinnati Children's Hospital)
+Description: An overview of early phase trials utilizing CD123 and CD33 targeted bispecific antibodies in pediatric acute myeloid leukemia.
+
+
+Session S132
+Title: FGFR Targeting in Urothelial Carcinoma
+Track: Genitourinary Cancer
+Time: June 5 2026, 8:30 AM
+Speaker: Dr. Jessica Turner (Rutgers Cancer Institute of Duke)
+Description: Managing toxicities and evaluating efficacy in the metastatic setting.
+
+
+Session S133
+Title: Developmental Therapeutics: Next-Generation Protein Degraders
+Track: Phase 1/Investigational
+Time: June 5 2026, 10:30 AM
+Speaker: Dr. Brian Evans (University of Colorado Cancer Center)
+Description: Clinical pharmacokinetics of novel PROTACs in solid tumors.
+
+
+Session S134
+Title: Mitigating Financial Toxicity in Oncology
+Track: Care Delivery and Practice Management
+Time: June 5 2026, 1:00 PM
+Speaker: Dr. Olivia Martin (Huntsman Cancer Institute)
+Description: Policy and practice-level interventions to reduce out-of-pocket costs for cancer patients.
+
+
+Session S135
+Title: Targeting BTK in Mantle Cell Lymphoma
+Track: Hematologic Malignancies
+Time: June 1 2026, 11:30 AM
+Speaker: Dr. Christopher Wright (UCLA Helen Diller Family Comprehensive Cancer Center)
+Description: Covalent vs non-covalent BTK inhibitors in the relapsed setting.
+
+
+Session S136
+Title: Immunotherapy in Mismatch Repair Deficient Endometrial Cancer
+Track: Gynecologic Cancer
+Time: June 2 2026, 8:00 AM
+Speaker: Dr. Natalie Adams (Basser Center for BRCA)
+Description: Review of single-agent PD-1 blockade efficacy and durability.
+
+
+Session S137
+Title: Systemic Therapies for Relapsed Ewing Sarcoma
+Track: Pediatric Oncology
+Time: June 2 2026, 10:30 AM
+Speaker: Dr. Peter Collins (Nationwide Children's Hospital)
+Description: Evaluating the efficacy of multi-kinase inhibitors and novel combinations.
+
+
+Session S138
+Title: Sequencing TKIs in ALK+ NSCLC
+Track: Lung Cancer
+Time: June 3 2026, 9:30 AM
+Speaker: Dr. Fiona Gallagher (UNC Lineberger Comprehensive Cancer Center)
+Description: Mechanisms of resistance to alectinib and lorlatinib.
+
+
+Session S139
+Title: Management of Brain Metastases in HER2+ Breast Cancer
+Track: Breast Cancer
+Time: June 3 2026, 1:00 PM
+Speaker: Dr. Derek Torres (UT Southwestern Helen Diller Family Comprehensive Cancer Center)
+Description: Comparing systemic therapies with high CNS penetration vs localized radiation.
+
+
+Session S140
+Title: Navigating Work-Life Balance for Early Career Oncologists
+Track: Career Development
+Time: June 4 2026, 9:00 AM
+Speaker: Dr. Monica Patel (ASCO Workforce Committee)
+Description: A roundtable on preventing burnout, managing clinical loads, and maintaining wellness during fellowship.
+
+
+Session S141
+Title: Targeting Claudin 18.2 in Gastric Cancer
+Track: Gastrointestinal Cancer
+Time: June 4 2026, 11:30 AM
+Speaker: Dr. Steven Hall (O'Neal Comprehensive Cancer Center)
+Description: Results from recent phase III trials evaluating zolbetuximab.
+
+
+Session S142
+Title: Triplet Therapy: BRAF/MEK Inhibitors plus IO in Melanoma
+Track: Melanoma/Skin Cancers
+Time: June 5 2026, 8:00 AM
+Speaker: Dr. Lauren Diaz (Holden Comprehensive Cancer Center)
+Description: Evaluating the toxicity and long-term benefit of combining targeted therapy with PD-L1 blockade.
+
+
+Session S143
+Title: Time-Limited Therapy in CLL
+Track: Hematologic Malignancies
+Time: June 5 2026, 10:00 AM
+Speaker: Dr. Victor Reed (Masonic Cancer Center)
+Description: Using venetoclax and obinutuzumab combinations to achieve undetectable MRD.
+
+
+Session S144
+Title: Genomic Landscapes of Infant ALL
+Track: Pediatric Oncology
+Time: June 5 2026, 1:00 PM
+Speaker: Dr. Alice Chang (Dana-Farber/Boston Children's Cancer and Blood Disorders Center)
+Description: Understanding KMT2A rearrangements and integrating targeted therapies into infant acute lymphoblastic leukemia protocols.
+
+
+Session S145
+Title: Intravesical Therapies for BCG-Unresponsive NMIBC
+Track: Genitourinary Cancer
+Time: June 1 2026, 2:30 PM
+Speaker: Dr. Edward King (University of Kansas Cancer Center)
+Description: Alternatives to cystectomy in high-risk non-muscle invasive bladder cancer.
+
+
+Session S146
+Title: Early Integration of Palliative Care
+Track: Care Delivery and Practice Management
+Time: June 2 2026, 3:30 PM
+Speaker: Dr. Sophia Turner (Karmanos Cancer Institute)
+Description: Impact on symptom burden and overall survival in advanced solid tumors.
+
+
+Session S147
+Title: Updates in Malignant Pleural Mesothelioma
+Track: Lung Cancer
+Time: June 3 2026, 4:00 PM
+Speaker: Dr. Ian Campbell (Simmons Comprehensive Cancer Center)
+Description: Dual immune checkpoint inhibition and novel mesothelin-targeted agents.
+
+
+Session S148
+Title: Locoregional Management After Neoadjuvant Chemotherapy
+Track: Breast Cancer
+Time: June 4 2026, 2:30 PM
+Speaker: Dr. Maria Sanchez (Stephenson Cancer Center)
+Description: Surgical de-escalation of the axilla in patients with complete pathological response.
+
+
+Session S149
+Title: Overcoming Imatinib Resistance in GIST
+Track: Sarcoma
+Time: June 5 2026, 11:30 AM
+Speaker: Dr. Samuel Hughes (Georgetown Lombardi Comprehensive Cancer Center)
+Description: Evaluating avapritinib and ripretinib in PDGFRA-mutated gastrointestinal stromal tumors.
+
+
+Session S150
+Title: Cancer Care in Low and Middle-Income Countries
+Track: Global Health
+Time: June 5 2026, 2:00 PM
+Speaker: Dr. Grace Osei (ASCO Global Oncology Affairs)
+Description: Strategies for expanding access to essential cancer medicines and diagnostics globally.
